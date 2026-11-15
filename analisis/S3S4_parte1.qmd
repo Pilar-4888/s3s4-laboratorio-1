@@ -1,9 +1,9 @@
 ---
 title: "Parte 1 · Preparar las variables"
 subtitle: "Ciencia de Datos e IA Aplicada · Sesiones 3 y 4 · Laboratorio A"
-author: "Nombre y apellidos del estudiante"
+author: "María Del Pilar Anacleto Pinedo"
 date: today
-date-format: "DD/MM/YYYY"
+date-format: "15/11/2026"
 lang: es
 format:
   html:
